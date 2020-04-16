@@ -144,15 +144,15 @@ publications:
         authors: Yagel Y, Sestito S, Motro Y, Shnaiderman-Torban A, Khalfin B, Sagi O, Navon-Venezia S, Steinman A, Moran-Gilad J.
         conference: Antibiotics (Basel). 2020 Apr 13;9(4):E177.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Cyber security threats in the microbial genomics era: implications for public health
+        link: "doi: 10.2807/1560-7917.ES.2020.25.6.1900574"
+        authors: Fayans I, Motro Y, Rokach L, Oren Y, Moran-Gilad J.
+        conference: Euro Surveill. 2020 Feb;25(6):1900574.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Discordant bioinformatic predictions of antimicrobial resistance from whole-genome sequencing data of bacterial isolates: an inter-laboratory study
+        link: "doi: 10.1099/mgen.0.000335"
+        authors: Doyle RM, O'Sullivan DM, Aller SD, Bruchmann S, Clark T, Coello Pelegrin A, Cormican M, Diez Benavente E, Ellington MJ, McGrath E, Motro Y, Phuong Thuy Nguyen T, Phelan J, Shaw LP, Stabler RA, van Belkum A, van Dorp L, Woodford N, Moran-Gilad J, Huggett JF, Harris KA.
+        conference: Microb Genom. 2020 Feb;6(2):e000335.
 
 skills:
     title: Skills &amp; Proficiency
