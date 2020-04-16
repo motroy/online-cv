@@ -140,7 +140,7 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
-        link: "https://10.3390/antibiotics9040177"
+        link: "https://doi:10.3390/antibiotics9040177"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
