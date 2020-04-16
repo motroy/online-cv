@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Yair Motro
     tagline: computational biologist
-    avatar: yair_iseq_3-4.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: yair_iseq_3-4.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hello@hello.com
