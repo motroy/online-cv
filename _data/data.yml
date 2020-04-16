@@ -139,10 +139,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Genomic Characterization of Antimicrobial Resistance, Virulence, and Phylogeny of the Genus Ochrobactrum
         link: "doi:10.3390/antibiotics9040177"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Yagel Y, Sestito S, Motro Y, Shnaiderman-Torban A, Khalfin B, Sagi O, Navon-Venezia S, Steinman A, Moran-Gilad J.
+        conference: Antibiotics (Basel). 2020 Apr 13;9(4):E177.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
