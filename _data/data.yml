@@ -163,6 +163,41 @@ publications:
         link: "doi:10.1016/j.bdq.2017.10.002"
         authors: "Motro Y, Moran-Gilad J."
         conference: "Biomol Detect Quantif. 2017 Oct 23;14:1-6."
+
+      - title: "Emergence of native peptide sequences in prebiotic replication networks"
+        link: "doi:10.1038/s41467-017-00463-1"
+        authors: "Nanda J, Rubinov B, Ivnitski D, Mukherjee R, Shtelman E, Motro Y, Miller Y, Wagner N, Cohen-Luria R, Ashkenasy G."
+        conference: "Nat Commun. 2017 Sep 5;8(1):434."
+ 
+      - title: "Reaction Mechanism for Direct Proton Transfer from Carbonic Acid to a Strong Base in Aqueous Solution II: Solvent Coordinate-Dependent Reaction Path"
+        link: "doi:10.1021/acs.jpcb.5b12744"
+        authors: "Daschakraborty S, Kiefer PM, Miller Y, Motro Y, Pines D, Pines E, Hynes JT."
+        conference: "J Phys Chem B. 2016 Mar 10;120(9):2281-90."
+ 
+      - title: "Reaction Mechanism for Direct Proton Transfer from Carbonic Acid to a Strong Base in Aqueous Solution I: Acid and Base Coordinate and Charge Dynamics"
+        link: "doi:10.1021/acs.jpcb.5b12742"
+        authors: "Daschakraborty S, Kiefer PM, Miller Y, Motro Y, Pines D, Pines E, Hynes JT."
+        conference: "J Phys Chem B. 2016 Mar 10;120(9):2271-80."
+ 
+      - title: "Carotenoid derivatives inhibit nuclear factor kappa B activity in bone and cancer cells by targeting key thiol groups"
+        link: "doi:10.1016/j.freeradbiomed.2014.07.024"
+        authors: "Linnewiel-Hermoni K, Motro Y, Miller Y, Levy J, Sharoni Y."
+        conference: "Free Radic Biol Med. 2014 Oct;75:105-20."
+         
+      - title: "Identification of genes associated with prophage-like gene transfer agents in the pathogenic intestinal spirochaetes Brachyspira hyodysenteriae, Brachyspira pilosicoli and Brachyspira intermedia"
+        link: "doi:10.1016/j.vetmic.2008.09.051"
+        authors: "Motro Y, La T, Bellgard MI, Dunn DS, Phillips ND, Hampson DJ."
+        conference: "Vet Microbiol. 2009 Mar 2;134(3-4):340-5."
+         
+      - title: "Genome sequence of the pathogenic intestinal spirochete brachyspira hyodysenteriae reveals adaptations to its lifestyle in the porcine large intestine"
+        link: "doi:10.1371/journal.pone.0004641"
+        authors: "Bellgard MI, Wanchanthuek P, La T, Ryan K, Moolhuijzen P, Albertyn Z, Shaban B, Motro Y, Dunn DS, Schibeci D, Hunter A, Barrero R, Phillips ND, Hampson DJ."
+        conference: "PLoS One. 2009;4(3):e4641."
+         
+      - title: "Ten years of bacterial genome sequencing: comparative-genomics-based discoveries"
+        link: "doi:10.1007/s10142-006-0027-2"
+        authors: "Binnewies TT, Motro Y, Hallin PF, Lund O, Dunn D, La T, Hampson DJ, Bellgard M, Wassenaar TM, Ussery DW."
+        conference: "Funct Integr Genomics. 2006 Jul;6(3):165-85."
 skills:
     title: Skills &amp; Proficiency
 
