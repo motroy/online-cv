@@ -46,7 +46,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: PhD in Bioinformatics
-      university: Murdoch University
+      university: Murdoch University, Perth, Australia
       time: 2005 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -57,7 +57,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: BSc in Computer Science
-      university: Murdoch University
+      university: Murdoch University, Perth, Australia
       time: 2000 - 2004
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -68,7 +68,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: BSc in Biotechnology
-      university: Murdoch University
+      university: Murdoch University, Perth, Australia
       time: 2000 - 2004
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -81,7 +81,7 @@ education:
 experiences:
     - role: Bioinformatics lead
       time: 2016 - Present
-      company: MAGICAL, Ben Gurion University of the Negev
+      company: MAGICAL, Ben Gurion University of the Negev, BeerSheva, Israel
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,7 +96,7 @@ experiences:
           - Bullet point
     - role: Post doctoral fellow
       time: 2014 - 2016
-      company: Theoretical chemistry, Prof. Yifat Miller's lab, Ben Gurion University of the Negev
+      company: Theoretical chemistry, Prof. Yifat Miller's lab, Ben Gurion University of the Negev, BeerSheva, Israel
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
