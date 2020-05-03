@@ -1,0 +1,40 @@
+Work description
+
+Your main responsibility will be to set up and maintain a data analysis production environment for the NVI. You are expected to work closely with the external infrastructure provider, as well as relevant people internally. Your work will include setting up and managing data transfer systems, databases, and tools for analysis for various types of biological data. You will also work closely with the inhouse bioinformatics group, and work with them to manage HPC resources, as well as install and manage bioinformatics software, including web based software such as Galaxy. Developing analysis tools in collaboration with the bioinformatics team and other researchers will also be part of your responsibilities.
+
+You will play a key role in the future development of the biological data infrastructure and data analysis tool kit. at the NVI. You are expected to maintain and expand your knowledge and skill set within your area of responsibility, and to transfer relevant knowledge to others. Assistance by the research/bioinformatics staff currently at the Norwegian Veterinary Institute will be given to help direct the work.
+
+Qualifications
+
+Required background:
+
+Master’s degree (equivalent or higher) in computer science, bioinformatics, statistics, mathematics, physics or within life sciences
+Linux system administration and shell scripting experience
+High performance computing experience including cluster resource management tools
+Experience in development and operation of SQL databases
+Experience working with software development
+Python, R, java or other programming language knowledge
+Web development within the python tool set
+The following skills and competences will be valued:
+
+HPC queue management with slurm
+Container technology (Docker/Singularity)
+Galaxy administration
+Web development and operation of online tools/databases (HTML/bootstrap/CSS)
+Java Spring Framework and Hibernate
+Working with REST APIs
+Conda package manager
+Experience with microbial bioinformatics
+Development of bioinformatics tools and pipelines
+Bioinformatics workflow languages such as Nextflow
+Participation in development of free and open software
+Participation in the Carpentries organization
+Personal qualities:
+
+Good interpersonal and collaborative skills
+Ability and interest in working in a multi-disciplinary team
+Self-driven and capable of working independently
+Good problem solving skills, and an interest in developing new work processes
+Ability and interest in learning new skills, using new methods to solve problems, and an interest in teaching new methods to others
+Flexible and ready to go in situations where time is critical
+Excellent communication in English
